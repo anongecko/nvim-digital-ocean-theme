@@ -2,6 +2,7 @@ I made this for NvChad, but you should be able to install it on other Neovim con
 
 ## NvChad Instructions (For Mac and UNIX)
 ```mkdir -p ~/.config/nvim/lua/themes && cd ~/.config/nvim/lua/themes```
+
 ```nvim digital_ocean.lua```
 
 Then copy paste the contents of digital-ocean.lua from this repo into that file. Your linter may show some warnings/errors - just ignore them. Restart Neovim entirely, and it will appear in your theme selector.
